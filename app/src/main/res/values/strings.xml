@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="aaa">转换为华氏温度</string>
+    <string name="bbb">请输入摄氏度</string>
+    <string name="ccc">结果为：</string>
+    <string name="teama">TeamA</string>
+    <string name="s1">+1 Points</string>
+    <string name="s2">+2 Points</string>
+    <string name="s3">+3 Points</string>
+    <string name="hui1">DOLLAR</string>
+    <string name="hui2">EURO</string>
+    <string name="hui3">WON</string>
+    <string name="hui4">CONFIG</string>
+    <string name="hui">Input RMB</string>
+    <string name="setting">Setting</string>
+    <string name="lable_open_list">OpenList</string>
+</resources>
